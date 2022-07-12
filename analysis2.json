@@ -1,0 +1,32 @@
+[
+  {
+    "reg_no": 5158249,
+    "Tamil": 97,
+    "English": 65,
+    "Maths": 68,
+    "Physics": 86,
+    "Chemistry": 88,
+    "biology": 85,
+    "Total_Marks": 489
+  },
+  {
+    "reg_no": 5158251,
+    "Tamil": 70,
+    "English": 60,
+    "Maths": 35,
+    "Physics": 82,
+    "Chemistry": 81,
+    "biology": 73,
+    "Total_Marks": 401
+  },
+  {
+    "reg_no": 5158253,
+    "Tamil": 90,
+    "English": 74,
+    "Maths": 76,
+    "Physics": 86,
+    "Chemistry": 83,
+    "biology": 75,
+    "Total_Marks": 484
+  }
+]
