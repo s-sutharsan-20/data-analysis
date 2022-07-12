@@ -1,0 +1,72 @@
+[
+  {
+    "reg_no": 5158166,
+    "Tamil": 46,
+    "English": 71,
+    "Maths": 61,
+    "Physics": 60,
+    "Chemistry": 55,
+    "ComputerScience": 66,
+    "Total_Marks": 359
+  },
+  {
+    "reg_no": 5158167,
+    "Tamil": 80,
+    "English": 63,
+    "Maths": 55,
+    "Physics": 66,
+    "Chemistry": 54,
+    "ComputerScience": 59,
+    "Total_Marks": 377
+  },
+  {
+    "reg_no": 5158180,
+    "Tamil": 56,
+    "English": 73,
+    "Maths": 55,
+    "Physics": 65,
+    "Chemistry": 62,
+    "ComputerScience": 69,
+    "Total_Marks": 380
+  },
+  {
+    "reg_no": 5158183,
+    "Tamil": 61,
+    "English": 56,
+    "Maths": 58,
+    "Physics": 62,
+    "Chemistry": 56,
+    "ComputerScience": 75,
+    "Total_Marks": 368
+  },
+  {
+    "reg_no": 5158194,
+    "Tamil": 35,
+    "English": 46,
+    "Maths": 49,
+    "Physics": 48,
+    "Chemistry": 46,
+    "ComputerScience": 61,
+    "Total_Marks": 285
+  },
+  {
+    "reg_no": 5158202,
+    "Tamil": 57,
+    "English": 57,
+    "Maths": 48,
+    "Physics": 62,
+    "Chemistry": 52,
+    "ComputerScience": 63,
+    "Total_Marks": 339
+  },
+  {
+    "reg_no": 5158210,
+    "Tamil": 93,
+    "English": 84,
+    "Maths": 82,
+    "Physics": 83,
+    "Chemistry": 77,
+    "ComputerScience": 95,
+    "Total_Marks": 514
+  }
+]
