@@ -1,0 +1,92 @@
+[
+  {
+    "reg_no": 5158345,
+    "Tamil": 35,
+    "English": 38,
+    "Economics": 60,
+    "Commerce": 61,
+    "Accountancy": 43,
+    "ComputerApplication": 58,
+    "Total_Marks": 295
+  },
+  {
+    "reg_no": 5158350,
+    "Tamil": 70,
+    "English": 66,
+    "Economics": 66,
+    "Commerce": 71,
+    "Accountancy": 53,
+    "ComputerApplication": 75,
+    "Total_Marks": 401
+  },
+  {
+    "reg_no": 5158352,
+    "Tamil": 59,
+    "English": 59,
+    "Economics": 59,
+    "Commerce": 74,
+    "Accountancy": 60,
+    "ComputerApplication": 72,
+    "Total_Marks": 383
+  },
+  {
+    "reg_no": 5158353,
+    "Tamil": 52,
+    "English": 67,
+    "Economics": 69,
+    "Commerce": 56,
+    "Accountancy": 56,
+    "ComputerApplication": 72,
+    "Total_Marks": 372
+  },
+  {
+    "reg_no": 5158360,
+    "Tamil": 43,
+    "English": 58,
+    "Economics": 72,
+    "Commerce": 75,
+    "Accountancy": 49,
+    "ComputerApplication": 61,
+    "Total_Marks": 358
+  },
+  {
+    "reg_no": 5158362,
+    "Tamil": 85,
+    "English": 68,
+    "Economics": 79,
+    "Commerce": 75,
+    "Accountancy": 71,
+    "ComputerApplication": 72,
+    "Total_Marks": 450
+  },
+  {
+    "reg_no": 5158363,
+    "Tamil": 82,
+    "English": 60,
+    "Economics": 73,
+    "Commerce": 78,
+    "Accountancy": 85,
+    "ComputerApplication": 65,
+    "Total_Marks": 443
+  },
+  {
+    "reg_no": 5158365,
+    "Tamil": 44,
+    "English": 59,
+    "Economics": 72,
+    "Commerce": 85,
+    "Accountancy": 74,
+    "ComputerApplication": 62,
+    "Total_Marks": 396
+  },
+  {
+    "reg_no": 5158369,
+    "Tamil": 84,
+    "English": 61,
+    "Economics": 70,
+    "Commerce": 84,
+    "Accountancy": 82,
+    "ComputerApplication": 66,
+    "Total_Marks": 447
+  }
+]
